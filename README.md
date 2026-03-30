@@ -1,7 +1,6 @@
 # 政大新聞光速彙整系統 NCCU News Statistics
 
-一基於 Python 與 Streamlit 打造的自動化網路爬蟲與資料視覺化工具。
-
+一個基於 Python 與 Streamlit 打造的自動化網路爬蟲與資料視覺化工具。
 本系統能夠自動探勘國立政治大學（NCCU）官方網站的最新新聞分類，並根據使用者指定的月份，快速抓取並彙整新聞資料，最後自動生成視覺化圖表與 Excel 統計報表。
 
 ## 專案架構
@@ -38,7 +37,7 @@ NCCU-News-Statistics/
 
 **1. 取得專案**
 ```bash
-git clone [https://github.com/joanhsieh17-gif/NCCU-News-Statistics.git](https://github.com/joanhsieh17-gif/NCCU-News-Statistics.git)
+git clone [https://github.com/joanhsieh17-gif/NCCU-News-Statistics.git]
 cd NCCU-News-Statistics
 ```
 
